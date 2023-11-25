@@ -18,7 +18,7 @@
         text-decoration: line-through;
     }
 
-    li,
+    label,
     input {
         cursor: pointer;
     }
